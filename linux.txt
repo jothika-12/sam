@@ -1,0 +1,29 @@
+vi [filename]-create file
+cat [filename]-view
+tac [filename]-reverse view
+./[filename]-output
+pwd-shows the director
+mkdir- create a directory
+rmdir- remove the directory
+ls- list of task done in directory
+touch- create a empty file
+cp- copy paste
+mv-move file 
+head- display 1st 10 lines
+tail- display last 10 lines
+cat[filename]|tr 'alphabet' 'replace alphabet'
+wc -(c,w,l)[filename]-word count
+gzip [filename1][filename2]-compress
+gunzip[filename1][filename2]-decompress
+zcat [compressed filename]-display the compressed file
+date-date and time
+sleep [number]
+df- disc space
+clear- clear the screen
+uname- os info
+ln- create shortcut
+ps - active processes in terminal
+grep- search word in file
+whoami - user info
+
+
