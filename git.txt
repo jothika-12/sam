@@ -1,12 +1,11 @@
 git init
 git status
-git add . or git add python.py
+git add . 
 git status
 git commit -m "first commit"
-
 git remote add origin url
 git branch
 git checkout -b main
 git pull origin main
-git push origin main
+git push -u origin main
 git config
